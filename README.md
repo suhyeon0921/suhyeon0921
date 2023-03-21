@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Suhyeon's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-<p align="center">
-Hi there👋 I'm Suhyeon!
-</p>
+<h2 align="center">Hi there👋 I'm Suhyeon!</h2>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
